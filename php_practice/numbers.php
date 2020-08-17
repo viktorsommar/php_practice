@@ -8,5 +8,15 @@ var_dump( $num_one + $num_two - $num_three );
 $distance_home = 1.2;
 $distance_work = 2.5;
 
-var_dump($distance_home + $distance_work)
+var_dump($distance_home + $distance_work);
+
+$a = 5;
+$b = 10;
+
+var_dump($a * $b);
+var_dump($a / $b);
+
+$a++;
+var_dump($a);
+
 ?>
